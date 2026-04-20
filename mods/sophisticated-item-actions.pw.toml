@@ -1,0 +1,13 @@
+name = "Sophisticated Item Actions"
+filename = "sophisticateditemactions-1.21.1-0.3.10.186.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RMW7bKVL/versions/hjsr4CMz/sophisticateditemactions-1.21.1-0.3.10.186.jar"
+hash-format = "sha512"
+hash = "ba3962fd1452862a5d440e46238c922d6ccd632ed86d4af61d8974369c84f25864c019d11e0fb7637a57c0feea82ad5bfee2912619d266a1cc75345e48a64b00"
+
+[update]
+[update.modrinth]
+mod-id = "RMW7bKVL"
+version = "hjsr4CMz"
