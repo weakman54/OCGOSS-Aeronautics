@@ -36,6 +36,11 @@ hash = "8f0d13cc7d1b993657aa32e4495b9d75cfdd2e7f93f9a10dec522866e18afc6f"
 metafile = true
 
 [[files]]
+file = "mods/construction-wand-kots.pw.toml"
+hash = "29f5e4ae3b7bd01bf0b4cc010a1306de932358dda66a7679ab61797060eb580f"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
@@ -66,8 +71,18 @@ hash = "85bfeee744eff6e3cb9146da32407874d569237298072c4455224566e322e476"
 metafile = true
 
 [[files]]
+file = "mods/create-connected.pw.toml"
+hash = "ac4d934d395dd4422d14cfc2f90670896ada7cb2d97fe078706e93a9de1b45a9"
+metafile = true
+
+[[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "bc4ef8bd7d32506703dcc175a62a12766addc393434ddbe8d17f01b071701943"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "ee76dbe108ebf5cf68047f60ecabee5aeb029015253dc82c007b941a6d6cfcdf"
 metafile = true
 
 [[files]]
@@ -83,6 +98,16 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "b5bbbdef134fb735d4a741ccb85b46c6b1707e8e974a09bdcc1dcd785c0f172e"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/ding.pw.toml"
+hash = "54c0985498a40c7b9c63e336c11c1c48770dbfdf50c07dff988c1b086d26ba2f"
 metafile = true
 
 [[files]]
@@ -141,6 +166,16 @@ hash = "2ac1df7fad83d36e69b4aaad32f0b952c9b039d7345592bb66934f40a8606224"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-x-curios-api-compat.pw.toml"
+hash = "89321cbcc8789aca2ba0e70cbd3e498de493a5f2b9db51f9c72d65d99c7afee7"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "4dcfc94168c8681f207b0124d574a970472601cd1b5e9b215a37265c753b7b47"
+metafile = true
+
+[[files]]
 file = "mods/inventory-tweaks-refoxed.pw.toml"
 hash = "23a6d125c91c8f4257c4e73fe320ce81f0b2a0c1d6316664296edca6b41acb70"
 metafile = true
@@ -176,6 +211,11 @@ hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
 
 [[files]]
+file = "mods/libx.pw.toml"
+hash = "53c902738dcce141ebdbd8549c78ede8a0b867285a0f0148377125339130ce6d"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "58e0bebd41fa44f3f0dd6c053ec3eb1529d4bfe0c054c0741ba6e2e1b8e4523e"
 metafile = true
@@ -183,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "651772c295e73ac60d5efd546dfa3bfa2263330cbb9db45eec9435ef8696b94b"
+metafile = true
+
+[[files]]
+file = "mods/more-overlays-updated.pw.toml"
+hash = "a9b5d9fb791c757bcc59b20d0cf3b1fc42f026feb7514c7ce59ee43726f3366d"
 metafile = true
 
 [[files]]
@@ -208,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/pams-harvestcraft-2-trees.pw.toml"
 hash = "697e5d429406179e06f02a1f4fe9e337df56adf36cee6c35e9f08b6bcd0cade6"
+metafile = true
+
+[[files]]
+file = "mods/rapid-leaf-decay.pw.toml"
+hash = "c584c4fa729c9025b384e14716a4c5ec994ef332b85492f57a4e41a315c45c4e"
 metafile = true
 
 [[files]]
@@ -283,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-aiots.pw.toml"
+hash = "0e185f70aaa171ba408208fee046c2f5bc5e5d6ee1c1609c906b26f4e4588253"
 metafile = true
 
 [[files]]
