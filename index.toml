@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".gitignore.bak"
-hash = "0637620452ebb92801802672f7f3b04705494d00c4837f0e50448a264cb285f1"
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
@@ -363,7 +359,3 @@ metafile = true
 file = "mods/waystones.pw.toml"
 hash = "398300198f9c631bc6f300cb8cf8aa6a5a18c8f287ee5d7b5e8f85226d4c10b6"
 metafile = true
-
-[[files]]
-file = "pack.toml.bak"
-hash = "a092383e73a3c0d8441ff869a5ba39c1eccd134d74a1bb9789b5415a74e7f41a"
