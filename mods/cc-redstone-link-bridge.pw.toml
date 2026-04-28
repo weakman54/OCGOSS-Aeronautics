@@ -1,13 +1,13 @@
 name = "CC: Redstone Link Bridge"
-filename = "ccredstonelinkbridge-neoforge-1.0.2.jar"
+filename = "ccredstonelinkbridge-neoforge-1.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/k3y2uvYF/versions/k0NZ4b2R/ccredstonelinkbridge-neoforge-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/k3y2uvYF/versions/gH50GtVz/ccredstonelinkbridge-neoforge-1.0.3.jar"
 hash-format = "sha512"
-hash = "7a63c9957de37ee12e6dcaca6e18a3371d033e38aebe895dd9437f83ad24c963d8a5b2fadd3d2d51189bdb4467b56c8cca69b3b55a098044e7e208c591aa2114"
+hash = "d7a1cb8d4b02a25bdbebd6893e94cfb1d0702a534f9168886dcf82bec9cc6c4190dbcd0dbc11701fe0cff9b5a38fb9331874249dc7ced4fbc2e9b4dd1645e984"
 
 [update]
 [update.modrinth]
 mod-id = "k3y2uvYF"
-version = "k0NZ4b2R"
+version = "gH50GtVz"
