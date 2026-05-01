@@ -31,12 +31,12 @@ metafile = true
 
 [[files]]
 file = "mods/bclib-neoforge.pw.toml"
-hash = "f7c3bef9421febb2c9744832cfb1e2b7f222a7ba595cc1a62e944c580db3aa0a"
+hash = "39c7121302c1a21c0db0080a3abffd379af36930465fcbe4bd6682881c1d8203"
 metafile = true
 
 [[files]]
 file = "mods/betterend-neoforge.pw.toml"
-hash = "eff1683ccb86208880b79e5c7e757a7987be985be9a1e088c40d2339fbf7dac4"
+hash = "bc792ba30b8b96a4451720488348b375d5eccdcd6d83f7527f960a1ea552f251"
 metafile = true
 
 [[files]]
@@ -481,12 +481,12 @@ metafile = true
 
 [[files]]
 file = "mods/worldweaver-neoforge.pw.toml"
-hash = "3a9d0e46e7f7cfafa88e5cca45dcc605abeb45043d433a814e2bec6727253d3b"
+hash = "1143cc779a00f8f4a582a6f11118de79afd4e089292fb712433f0af9fc0a8562"
 metafile = true
 
 [[files]]
 file = "mods/wunderlib-neoforge.pw.toml"
-hash = "2db6150114a149ac922dda026392b401969e31bd4b93e28c44296a9ec712bd65"
+hash = "be9540e46f1fb23ecc35d79b468480558924c518f759e46783f9d9de68b772f3"
 metafile = true
 
 [[files]]
