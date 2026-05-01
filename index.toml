@@ -5,6 +5,10 @@ file = "cfadd.bat"
 hash = "c1369900d8eeffb91491ae57dcc198ed1cd0c99d4f9de5e031583834c9dab37d"
 
 [[files]]
+file = "mods/BetterEnd-21.0.24.jar"
+hash = "1005a2f6662f9a76962a6bdabdf108a00ed0396b5dd2173c49c1cbf02ed5891b"
+
+[[files]]
 file = "mods/additional-lights.pw.toml"
 hash = "2a1d37592310a332c4bd5d03df4663054b855e28f797f5c91bb13414416dd632"
 metafile = true
@@ -32,11 +36,6 @@ metafile = true
 [[files]]
 file = "mods/bclib-neoforge.pw.toml"
 hash = "39c7121302c1a21c0db0080a3abffd379af36930465fcbe4bd6682881c1d8203"
-metafile = true
-
-[[files]]
-file = "mods/betterend-neoforge.pw.toml"
-hash = "bc792ba30b8b96a4451720488348b375d5eccdcd6d83f7527f960a1ea552f251"
 metafile = true
 
 [[files]]
