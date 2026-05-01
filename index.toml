@@ -35,6 +35,11 @@ hash = "f7c3bef9421febb2c9744832cfb1e2b7f222a7ba595cc1a62e944c580db3aa0a"
 metafile = true
 
 [[files]]
+file = "mods/betterend-neoforge.pw.toml"
+hash = "eff1683ccb86208880b79e5c7e757a7987be985be9a1e088c40d2339fbf7dac4"
+metafile = true
+
+[[files]]
 file = "mods/cable-facades.pw.toml"
 hash = "20cc6a015da793eb448c94a63f5637cad8b5c335da98ca35087db61ff113354b"
 metafile = true
