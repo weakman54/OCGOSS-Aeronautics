@@ -20,8 +20,23 @@ hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
 
 [[files]]
+file = "mods/athena.pw.toml"
+hash = "e1599947a8d78f74c129a8420569bb2453b2ce76fdc76a7151093923ea8366c9"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "9121b274bd87552ae976983d9bdd56061274c126a4a1b7b2e13605b1a1ec0599"
+metafile = true
+
+[[files]]
+file = "mods/bclib-neoforge.pw.toml"
+hash = "f7c3bef9421febb2c9744832cfb1e2b7f222a7ba595cc1a62e944c580db3aa0a"
+metafile = true
+
+[[files]]
+file = "mods/betterend-neoforge.pw.toml"
+hash = "eff1683ccb86208880b79e5c7e757a7987be985be9a1e088c40d2339fbf7dac4"
 metafile = true
 
 [[files]]
@@ -320,6 +335,11 @@ hash = "557c7470f6fa151d176e684154b22ea9a53b80f57070a8ae6eeccf771f336cab"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "8b725f1822c0feab9e51bef600f2ee6f4c26efbb55aa3ee9073a027f1f134202"
+metafile = true
+
+[[files]]
 file = "mods/potentials.pw.toml"
 hash = "b484f15d3353a7d4b3baf14b9da340c922299aead74f7f052dd886f49489d7fd"
 metafile = true
@@ -425,6 +445,16 @@ hash = "21f98908d94bfdf05ebaedc2142a9edc82d1549c8fff601bca5fba3de28bc2c2"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "2e42245826ce70d4ad673addb0e5244da388841f1484f03ee5a9426ee33b2229"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "83dae761dae86cc140fe971ce6a8cac9bfe0f9eb39417a71666441a2bcc634a8"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
@@ -435,6 +465,11 @@ hash = "23ea2c32834281723c63d45ffe42969172492d36309755a46bc47154c3014b3f"
 metafile = true
 
 [[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "98796f38bc82aacfb155506a662df4f19a26e810962a1ca2337dd584718badcd"
+metafile = true
+
+[[files]]
 file = "mods/vanilla-aiots.pw.toml"
 hash = "0e185f70aaa171ba408208fee046c2f5bc5e5d6ee1c1609c906b26f4e4588253"
 metafile = true
@@ -442,6 +477,16 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "e2978597c04f24e2e0536a6aa666ef5cc0b1d515c09af1f763c65587faa73333"
+metafile = true
+
+[[files]]
+file = "mods/worldweaver-neoforge.pw.toml"
+hash = "3a9d0e46e7f7cfafa88e5cca45dcc605abeb45043d433a814e2bec6727253d3b"
+metafile = true
+
+[[files]]
+file = "mods/wunderlib-neoforge.pw.toml"
+hash = "2db6150114a149ac922dda026392b401969e31bd4b93e28c44296a9ec712bd65"
 metafile = true
 
 [[files]]
