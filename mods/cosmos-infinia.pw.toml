@@ -1,0 +1,13 @@
+name = "Cosmos Infinia"
+filename = "cosmos_infinia-1.2.1.5-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xJjwyyKI/versions/jnLzQYtS/cosmos_infinia-1.2.1.5-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "88dbf73aeaeb0433ed8b49c2a16bef841fb7bd1e976bc9c7b4bd57342a7b8727c3f1885ee7f858bc4b9672f8de4d849c915d7e40e568cbc683189b5386248695"
+
+[update]
+[update.modrinth]
+mod-id = "xJjwyyKI"
+version = "jnLzQYtS"

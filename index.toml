@@ -14,16 +14,6 @@ hash = "2a1d37592310a332c4bd5d03df4663054b855e28f797f5c91bb13414416dd632"
 metafile = true
 
 [[files]]
-file = "mods/advanced-rocketry-3-0.pw.toml"
-hash = "01509ec421e53d7cc0251f5473c4b26c456b7b685362cb418f85f71583d65bf9"
-metafile = true
-
-[[files]]
-file = "mods/advanced-rocketry-3.pw.toml"
-hash = "02f583979a4262c7b15e475cee1686d36c7499f0b9b3bd308f6429447615949a"
-metafile = true
-
-[[files]]
 file = "mods/ante.pw.toml"
 hash = "28a347f91bbad2721f385cbfa31c75ddcd35de3e5e226e79abc6b5dce25869cb"
 metafile = true
@@ -123,6 +113,11 @@ hash = "ef0d7d06b2ee533a7e87bf248126d8c39e71c3a3d583a3444cce7468ac119aa2"
 metafile = true
 
 [[files]]
+file = "mods/cosmos-infinia.pw.toml"
+hash = "d8f9d34c0161b610bfc1340bf0b59f0a0b792fb0d8af20dfb8ada5a26faf50a0"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
 metafile = true
@@ -150,6 +145,11 @@ metafile = true
 [[files]]
 file = "mods/create-connected.pw.toml"
 hash = "31508c7c87c75cec7ae03cfe2367b6e4ea37035400c2594c93c1e9c60cf64b3f"
+metafile = true
+
+[[files]]
+file = "mods/create-copper-zinc.pw.toml"
+hash = "6585dd3b5e5827ef7a154c6f6a42b261fce089bfffe430c13e8c7df2e22f9c0f"
 metafile = true
 
 [[files]]
@@ -338,6 +338,21 @@ hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "60d0f719a2fc1045e865fc38c0c6d04a733d0ce2e84173be86e999399bcc162d"
+metafile = true
+
+[[files]]
+file = "mods/kubejsable.pw.toml"
+hash = "373056af412ff3db99051f70f9ffc723f9c97857da4c4494d8fa96fe8f681b32"
+metafile = true
+
+[[files]]
 file = "mods/libx.pw.toml"
 hash = "53c902738dcce141ebdbd8549c78ede8a0b867285a0f0148377125339130ce6d"
 metafile = true
@@ -440,6 +455,11 @@ metafile = true
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "208de52370a896983814bd3f69ed0e2b46ca52d99603656562f3890f96d151da"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "6b91f46291891e725189b0bd54d0db0f66925b1e785bdfa737592dfcf41a79a3"
 metafile = true
 
 [[files]]
