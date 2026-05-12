@@ -1,0 +1,13 @@
+name = "Aether Addon: Overworld Ores"
+filename = "aether_overworld_ores-1.21.1-1.0.2-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Nipqb0qe/versions/Au9ixuQ8/aether_overworld_ores-1.21.1-1.0.2-neoforge.jar"
+hash-format = "sha512"
+hash = "dedcddff09851f4b1b61fed9bb36cfbcf93395950c0f1b416b0a40a7f1280710fe152df8d8d094ffeae51f3c517dfdcc60c6d7e0da113ba62f800b7de17a5d7f"
+
+[update]
+[update.modrinth]
+mod-id = "Nipqb0qe"
+version = "Au9ixuQ8"

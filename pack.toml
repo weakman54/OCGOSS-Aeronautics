@@ -1,12 +1,12 @@
 name = "OCGOSS Aeronautics"
 author = "MangoCat54"
-version = "1.24"
+version = "1.25"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "19d3954044caafbed55d64bbf5fedf93907126d8a9d0599e91189b2e816b2314"
+hash = "ec31559ecb47744ba72dcf12e9af20e4948d650e184c551132dfd02951a6a6b3"
 
 [versions]
 minecraft = "1.21.1"
