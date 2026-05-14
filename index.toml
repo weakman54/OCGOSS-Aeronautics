@@ -6,7 +6,11 @@ hash = "c1369900d8eeffb91491ae57dcc198ed1cd0c99d4f9de5e031583834c9dab37d"
 
 [[files]]
 file = "kubejs/server_scripts/etched_blank_music_disk_recipe.js"
-hash = "530a682ebe19b67020d516b7bf4d19c8727dd80f4c7f3081cda4a4f65a726dd0"
+hash = "5dcd984dc8fe97137ce76c1de0f8c06c15b91f22eb09869342312b4cd248a05e"
+
+[[files]]
+file = "kubejs/startup_scripts/item_stack_limit.js"
+hash = "5f7bde1ff94e07d622ee5e1a1d9e605029ca1e039fa5799fc721e937879542ff"
 
 [[files]]
 file = "mods/additional-lights.pw.toml"
@@ -230,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "b5bbbdef134fb735d4a741ccb85b46c6b1707e8e974a09bdcc1dcd785c0f172e"
+hash = "5b529724427fd8b04538c2f49cc8f9b38de49fe46218eb9e07f955f5725d727a"
 metafile = true
 
 [[files]]
