@@ -468,6 +468,11 @@ hash = "4d7e9989b35a90db762ee26254bd0b52bb28f0d959bd557ae4dc7a4dc1caa362"
 metafile = true
 
 [[files]]
+file = "mods/observable.pw.toml"
+hash = "3e477c97729015ac6184c0b56cb148947b7c0dc5cca764336ee96719f05f05e6"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
