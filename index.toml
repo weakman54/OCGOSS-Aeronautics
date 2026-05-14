@@ -5,6 +5,22 @@ file = "cfadd.bat"
 hash = "c1369900d8eeffb91491ae57dcc198ed1cd0c99d4f9de5e031583834c9dab37d"
 
 [[files]]
+file = "config/fluxnetworks-server.toml"
+hash = "daa608e3a0b50c90036e6db687619eb39950e5fd9a2114a38ca8aeb9cc27da49"
+
+[[files]]
+file = "kubejs/server_scripts/etched_blank_music_disk_recipe.js"
+hash = "5dcd984dc8fe97137ce76c1de0f8c06c15b91f22eb09869342312b4cd248a05e"
+
+[[files]]
+file = "kubejs/server_scripts/flux_point_remove.js"
+hash = "cece7d39fa176ec0af50ef5cf1447981b57710f58c2f88f596357aa55ead05be"
+
+[[files]]
+file = "kubejs/startup_scripts/item_stack_limit.js"
+hash = "5f7bde1ff94e07d622ee5e1a1d9e605029ca1e039fa5799fc721e937879542ff"
+
+[[files]]
 file = "mods/additional-lights.pw.toml"
 hash = "2a1d37592310a332c4bd5d03df4663054b855e28f797f5c91bb13414416dd632"
 metafile = true
@@ -226,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "b5bbbdef134fb735d4a741ccb85b46c6b1707e8e974a09bdcc1dcd785c0f172e"
+hash = "5b529724427fd8b04538c2f49cc8f9b38de49fe46218eb9e07f955f5725d727a"
 metafile = true
 
 [[files]]
@@ -315,6 +331,11 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
+file = "mods/flux-networks.pw.toml"
+hash = "ad8209e472d463c9fcd19ca708fcd9c1a4a1bc69c9f0ca22efeacb414e9ab7a8"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
@@ -352,6 +373,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
+metafile = true
+
+[[files]]
+file = "mods/get-it-together-drops.pw.toml"
+hash = "82a892755a825ac7724c84c063cef2f884fc8c3b36ac1da8bb02dbbd76af58aa"
 metafile = true
 
 [[files]]
@@ -457,6 +483,11 @@ metafile = true
 [[files]]
 file = "mods/northstar-redux.pw.toml"
 hash = "4d7e9989b35a90db762ee26254bd0b52bb28f0d959bd557ae4dc7a4dc1caa362"
+metafile = true
+
+[[files]]
+file = "mods/observable.pw.toml"
+hash = "3e477c97729015ac6184c0b56cb148947b7c0dc5cca764336ee96719f05f05e6"
 metafile = true
 
 [[files]]
