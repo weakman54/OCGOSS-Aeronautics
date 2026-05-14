@@ -10,5 +10,5 @@ ServerEvents.recipes(event => {
             "A": "createpropulsion:pine_resin",
             "B": "minecraft:iron_nugget"
         }
-    )
+    );
 });
