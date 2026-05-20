@@ -5,6 +5,14 @@ file = "cfadd.bat"
 hash = "c1369900d8eeffb91491ae57dcc198ed1cd0c99d4f9de5e031583834c9dab37d"
 
 [[files]]
+file = "config/refinedstorage-common.toml"
+hash = "59757f1f21562f706d8e76b89ce5488fc4af70eb2a5ffac1307f321f2481cbb8"
+
+[[files]]
+file = "config/refinedstorage_quartz_arsenal-common.toml"
+hash = "801422f99c077fcf3d54103d54f9235008172f37dd35fdf5236d7db39863c9e0"
+
+[[files]]
 file = "kubejs/server_scripts/etched_blank_music_disk_recipe.js"
 hash = "5dcd984dc8fe97137ce76c1de0f8c06c15b91f22eb09869342312b4cd248a05e"
 
