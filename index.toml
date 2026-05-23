@@ -485,6 +485,11 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
+metafile = true
+
+[[files]]
 file = "mods/nirvana.pw.toml"
 hash = "4f8b60eca8a7bd5bf1f154f4f3585ee44c8f6aa8b97b7e01ab865559c35ce363"
 metafile = true
