@@ -1,0 +1,13 @@
+name = "ServuxForged"
+filename = "ServuxForged-0.2.2-mc1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/H9LzoDgA/versions/PnPBwpNm/ServuxForged-0.2.2-mc1.21.1.jar"
+hash-format = "sha512"
+hash = "2764efd2b7cc1e17a8544f016c2420753889a4df271b0f974e00d9460a48e510e6d37394619798aee668bb573c97668e6ccef433032bd5611a3197c50c94dc68"
+
+[update]
+[update.modrinth]
+mod-id = "H9LzoDgA"
+version = "PnPBwpNm"
