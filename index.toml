@@ -5,6 +5,14 @@ file = "cfadd.bat"
 hash = "c1369900d8eeffb91491ae57dcc198ed1cd0c99d4f9de5e031583834c9dab37d"
 
 [[files]]
+file = "config/createaddition-common.toml"
+hash = "47f9ce12cf714cd5a8a393ef6fd999dbac7cac4d07ef130fc6e9270232e1c186"
+
+[[files]]
+file = "config/destroy-server.toml"
+hash = "0b1e78e8f24b9e8aa0e7dc3993efd326d169a91365bcec87cd69089d1ff9403a"
+
+[[files]]
 file = "config/refinedstorage-common.toml"
 hash = "59757f1f21562f706d8e76b89ce5488fc4af70eb2a5ffac1307f321f2481cbb8"
 
@@ -401,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tweaks-refoxed.pw.toml"
-hash = "23a6d125c91c8f4257c4e73fe320ce81f0b2a0c1d6316664296edca6b41acb70"
+hash = "4fbe04bd9f15b5c0f861472a9be7d95ca743c7ed820119cfb7e3caed12e071fb"
 metafile = true
 
 [[files]]
