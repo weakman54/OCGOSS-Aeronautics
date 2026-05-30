@@ -21,8 +21,16 @@ file = "config/refinedstorage_quartz_arsenal-common.toml"
 hash = "801422f99c077fcf3d54103d54f9235008172f37dd35fdf5236d7db39863c9e0"
 
 [[files]]
+file = "kubejs/server_scripts/bone_meal_from_chalk.js"
+hash = "e50037133960e0916538bc2624c3d50d034add19217dfe3ad392fed6ea73acd4"
+
+[[files]]
 file = "kubejs/server_scripts/etched_blank_music_disk_recipe.js"
 hash = "5dcd984dc8fe97137ce76c1de0f8c06c15b91f22eb09869342312b4cd248a05e"
+
+[[files]]
+file = "kubejs/server_scripts/tfmg_heavy_plate_strict.js"
+hash = "989b8575643fa372138eba78f6fe60623639c508c28bcc993fea06cfb381bb56"
 
 [[files]]
 file = "kubejs/startup_scripts/item_stack_limit.js"
