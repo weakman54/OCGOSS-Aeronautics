@@ -758,7 +758,3 @@ metafile = true
 [[files]]
 file = "mradd.bat"
 hash = "87319088fd5d13cf9a1cbd74e078832a52ba47fe1f5a284026d84d4444ef202b"
-
-[[files]]
-file = "test.sh"
-hash = "a84e1a968ac227420139fe87430f15eee773d2901385e30ff044c6e2c4682cc9"
