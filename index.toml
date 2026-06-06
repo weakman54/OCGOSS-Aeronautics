@@ -182,11 +182,6 @@ hash = "9edfcf5022b68ae0234b2d5c15b710fc3f27407d84aeeb917615dffbd42c8b92"
 metafile = true
 
 [[files]]
-file = "mods/copycats.pw.toml"
-hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
-metafile = true
-
-[[files]]
 file = "mods/cosmos-infinia.pw.toml"
 hash = "d8f9d34c0161b610bfc1340bf0b59f0a0b792fb0d8af20dfb8ada5a26faf50a0"
 metafile = true
