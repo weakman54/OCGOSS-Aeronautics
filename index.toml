@@ -268,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/createbigmail-1.0.2.jar"
-hash = "074c2b302e73ffc3ad0cca77d37176001890aec99321f81c4713d47f7e6ef8e6"
+hash = "eb9a5876946a0954a7db493d384b3b7775e9b46b7dbea18b0fdd52f75efaf362"
 
 [[files]]
 file = "mods/cryonicconfig.pw.toml"
