@@ -570,6 +570,10 @@ hash = "d697896268af5b0b91ac4736007bbccd301aa8aa428c03ed70e23a15d719527e"
 metafile = true
 
 [[files]]
+file = "mods/petworks-fabric-0.2.0-beta.2+mc.1.21.1.jar"
+hash = "67265d0dc49ef5f8419c192b6d27be50f80308d97b0a733483bb41e8d871d4fd"
+
+[[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "711e6fc567eb2a2786c27245e13cc1ee9327c0fa43d7d4a58d0dc2436c536457"
 metafile = true
