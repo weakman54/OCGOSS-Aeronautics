@@ -405,6 +405,11 @@ hash = "82a892755a825ac7724c84c063cef2f884fc8c3b36ac1da8bb02dbbd76af58aa"
 metafile = true
 
 [[files]]
+file = "mods/glaidens-vista-improvements.pw.toml"
+hash = "abd157751e7953ee6600ec9b3e8ec00f2af008ac754fcee6a85e99d75d58bd16"
+metafile = true
+
+[[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "e88253c3633274c212b2c4628a26ba03ceba6afff561eb6f9488689fad4cad06"
 metafile = true
