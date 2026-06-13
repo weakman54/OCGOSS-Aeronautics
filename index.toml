@@ -480,6 +480,11 @@ hash = "373056af412ff3db99051f70f9ffc723f9c97857da4c4494d8fa96fe8f681b32"
 metafile = true
 
 [[files]]
+file = "mods/leashable-collars.pw.toml"
+hash = "609ac95fb09d663e12248afe745bea5b4357e5448ac2eb966caa0a2edea40256"
+metafile = true
+
+[[files]]
 file = "mods/libx.pw.toml"
 hash = "53c902738dcce141ebdbd8549c78ede8a0b867285a0f0148377125339130ce6d"
 metafile = true
