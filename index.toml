@@ -744,6 +744,11 @@ hash = "98796f38bc82aacfb155506a662df4f19a26e810962a1ca2337dd584718badcd"
 metafile = true
 
 [[files]]
+file = "mods/trinkets.pw.toml"
+hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
+metafile = true
+
+[[files]]
 file = "mods/vanilla-aiots.pw.toml"
 hash = "0e185f70aaa171ba408208fee046c2f5bc5e5d6ee1c1609c906b26f4e4588253"
 metafile = true
