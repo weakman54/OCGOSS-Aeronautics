@@ -37,6 +37,10 @@ file = "kubejs/startup_scripts/item_stack_limit.js"
 hash = "5f7bde1ff94e07d622ee5e1a1d9e605029ca1e039fa5799fc721e937879542ff"
 
 [[files]]
+file = "mods/PatPat-1.2.4+1.21.1+neoforge.jar"
+hash = "15a78091aba5b48ceed1d1320bddcae64e953e420ba94c72359980ed6b31d9d8"
+
+[[files]]
 file = "mods/additional-lights.pw.toml"
 hash = "2a1d37592310a332c4bd5d03df4663054b855e28f797f5c91bb13414416dd632"
 metafile = true
