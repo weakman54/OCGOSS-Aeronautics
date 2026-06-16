@@ -46,6 +46,11 @@ hash = "2a1d37592310a332c4bd5d03df4663054b855e28f797f5c91bb13414416dd632"
 metafile = true
 
 [[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "b2890f92c87f48cb45a0d8053f69afdbee6ce828c07cd0d7d4c3fd7c201e3eb0"
+metafile = true
+
+[[files]]
 file = "mods/aether-emissivity.pw.toml"
 hash = "71b37e848b677dccc17c05a6a68a0a52f45d055a9f1e168d277946569bbb8a36"
 metafile = true
