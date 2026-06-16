@@ -191,6 +191,11 @@ hash = "d8f9d34c0161b610bfc1340bf0b59f0a0b792fb0d8af20dfb8ada5a26faf50a0"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-lift-patch.pw.toml"
+hash = "434d92388783bd89bfad57891f43b7bab9b9c3b16800fd1d8de5f76049a2f304"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
 hash = "6ea6284b569b13f45bfe44f9790389de4a2f7cda92c8b3bb94511b600d64c486"
 metafile = true
@@ -248,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
 hash = "9471f671a99e870db23fec3b1800a6a3dd89d2d5c4e67e0da50165cd7bd719ef"
+metafile = true
+
+[[files]]
+file = "mods/create-radars.pw.toml"
+hash = "c24712eb82bb29d7ed210d7bc175baeb3b022c3b365b2dd0275c25f690e98f52"
 metafile = true
 
 [[files]]
@@ -645,6 +655,11 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
+metafile = true
+
+[[files]]
+file = "mods/scholar.pw.toml"
+hash = "ce0e68d65baacfe8ae0631e5ce9dfdedbb18b12ad44000c5168a222f18a9d11e"
 metafile = true
 
 [[files]]
