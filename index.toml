@@ -499,11 +499,6 @@ hash = "60d0f719a2fc1045e865fc38c0c6d04a733d0ce2e84173be86e999399bcc162d"
 metafile = true
 
 [[files]]
-file = "mods/kubejsable.pw.toml"
-hash = "373056af412ff3db99051f70f9ffc723f9c97857da4c4494d8fa96fe8f681b32"
-metafile = true
-
-[[files]]
 file = "mods/leashable-collars.pw.toml"
 hash = "609ac95fb09d663e12248afe745bea5b4357e5448ac2eb966caa0a2edea40256"
 metafile = true
