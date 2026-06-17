@@ -1,13 +1,13 @@
 name = "Plasmo Voice"
-filename = "plasmovoice-neoforge-1.21.1-2.1.9.jar"
+filename = "plasmovoice-neoforge-1.21.1-2.1.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1bZhdhsH/versions/LktH7OhI/plasmovoice-neoforge-1.21.1-2.1.9.jar"
+url = "https://cdn.modrinth.com/data/1bZhdhsH/versions/VCkY6lDY/plasmovoice-neoforge-1.21.1-2.1.10.jar"
 hash-format = "sha512"
-hash = "4ee9a75d8b1382b3aca6be4286acbe8f9a9adf62928de110cde19f249b7435b43825d87a76f39d5f55c7def35f580a62e4edb371d4352461e45d5d325649fd7e"
+hash = "8784520d79bcad4dd2cdb378d6653b3c87c8e4a52e118a55f9ef7a86e5a6bf978e73b7e62fbed3ef3775445e9f47598964b9ff2b26003363319966f6ddfc99a7"
 
 [update]
 [update.modrinth]
 mod-id = "1bZhdhsH"
-version = "LktH7OhI"
+version = "VCkY6lDY"
