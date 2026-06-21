@@ -5,6 +5,10 @@ file = "cfadd.bat"
 hash = "c1369900d8eeffb91491ae57dcc198ed1cd0c99d4f9de5e031583834c9dab37d"
 
 [[files]]
+file = "config/aether-common.toml"
+hash = "178bf18011f06b8de5df04c3b2184caeb479f28a6aae1e9e9ff15f300044b97e"
+
+[[files]]
 file = "config/createaddition-common.toml"
 hash = "47f9ce12cf714cd5a8a393ef6fd999dbac7cac4d07ef130fc6e9270232e1c186"
 
@@ -19,6 +23,14 @@ hash = "59757f1f21562f706d8e76b89ce5488fc4af70eb2a5ffac1307f321f2481cbb8"
 [[files]]
 file = "config/refinedstorage_quartz_arsenal-common.toml"
 hash = "801422f99c077fcf3d54103d54f9235008172f37dd35fdf5236d7db39863c9e0"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+hash = "dda10b602f9368ded1027490214a3421496595e1fcdac3200328b774941c7039"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "853824ca58b1a6773b340aa9ef8f6cfb2d52cb65852a20a8f8e145a73b67ae7f"
 
 [[files]]
 file = "kubejs/server_scripts/bone_meal_from_chalk.js"
@@ -775,6 +787,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
+metafile = true
+
+[[files]]
+file = "mods/unlocked-typing.pw.toml"
+hash = "32b3bd70bf8fd7ec28c21833982ed117f2d1ce0e86ac21687bec6362f5bdb6df"
 metafile = true
 
 [[files]]
