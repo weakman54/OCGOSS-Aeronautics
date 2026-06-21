@@ -639,7 +639,12 @@ metafile = true
 
 [[files]]
 file = "mods/refined-storage.pw.toml"
-hash = "2c257ee5f2c8a3454e423610b61d113cf736c86b7b1f5079dc8e119346a0d7a0"
+hash = "aaf0d7287d0b48ed96307ffa1fd8bbe7a3d6bfc837be1e6ba42c09063b988e69"
+metafile = true
+
+[[files]]
+file = "mods/refinedschematics.pw.toml"
+hash = "ffca7f1e6730f4c83c0965cfc82ce29e2b5e4a469d9dc4172f6eae262b6e9519"
 metafile = true
 
 [[files]]

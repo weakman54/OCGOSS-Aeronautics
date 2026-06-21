@@ -1,0 +1,13 @@
+name = "Refined Schematics"
+filename = "refinedschematics-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/opeiTA1z/versions/HHSXPEiL/refinedschematics-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "f95769703991f7450480f80860fee9d2255b7599832990ae7f84d27ffdae05a8a4a85e3ef9e2f814548a6188a93503f7af77e8cf5b7d6449de2854bad4f707f0"
+
+[update]
+[update.modrinth]
+mod-id = "opeiTA1z"
+version = "HHSXPEiL"
