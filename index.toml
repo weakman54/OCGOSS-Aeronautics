@@ -46,7 +46,7 @@ hash = "989b8575643fa372138eba78f6fe60623639c508c28bcc993fea06cfb381bb56"
 
 [[files]]
 file = "kubejs/startup_scripts/item_stack_limit.js"
-hash = "5f7bde1ff94e07d622ee5e1a1d9e605029ca1e039fa5799fc721e937879542ff"
+hash = "cde67e44fdb70b1b816348ffd7e4db3bac516bd8712bfd088db7072ef6d98788"
 
 [[files]]
 file = "mods/PatPat-1.2.4+1.21.1+neoforge.jar"
