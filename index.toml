@@ -759,6 +759,11 @@ hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
 metafile = true
 
 [[files]]
+file = "mods/ssrd.pw.toml"
+hash = "e11d2e233aecbb9bf9fa8db6a6290a9f0a631ba4b2dbfec985c0e2d60d72d401"
+metafile = true
+
+[[files]]
 file = "mods/stellaris.pw.toml"
 hash = "d8c155733358fc2d5b16c59748808df53f39315886db1f975e90f00b1a9ee3fe"
 metafile = true
