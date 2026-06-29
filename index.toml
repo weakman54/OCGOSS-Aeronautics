@@ -45,8 +45,8 @@ file = "kubejs/server_scripts/etched_blank_music_disk_recipe.js"
 hash = "5dcd984dc8fe97137ce76c1de0f8c06c15b91f22eb09869342312b4cd248a05e"
 
 [[files]]
-file = "kubejs/server_scripts/tfmg_heavy_plate_strict.js"
-hash = "989b8575643fa372138eba78f6fe60623639c508c28bcc993fea06cfb381bb56"
+file = "kubejs/server_scripts/tfmg.js"
+hash = "eca79a615ce4796980d1a0907e066e8f52884feb83f1157d462fb02e25c89ba8"
 
 [[files]]
 file = "kubejs/startup_scripts/item_stack_limit.js"

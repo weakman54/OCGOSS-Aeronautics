@@ -10,4 +10,7 @@ ServerEvents.recipes(event => {
         event.recipes.createPressing('tfmg:unprocessed_heavy_plate', 'tfmg:unprocessed_heavy_plate'),
         event.recipes.createPressing('tfmg:unprocessed_heavy_plate', 'tfmg:unprocessed_heavy_plate')
     ]).transitionalItem('tfmg:unprocessed_heavy_plate').loops(3)
+    // Why is tfmg such a janky mod aaa
+
+    event.recipes.create.mixing('tfmg:plastic_sheet', Fluid.of("tfmg:molten_plastic", 144))
 });
