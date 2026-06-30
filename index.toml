@@ -272,6 +272,11 @@ hash = "ff6a3d4bed914978aada4a059a16100cd2fd69a3cf19987c0d80160a7125e78b"
 metafile = true
 
 [[files]]
+file = "mods/create-industry.pw.toml"
+hash = "27ba9439d6b25314cfca911c474a9a34933dc7a25b4ee42ae3f2782f8d03b676"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "d1a7402cc94a8a857d380f68bb9a19d8981a2b3223068a53d9054e97232f4167"
 metafile = true
@@ -289,11 +294,6 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails-1.21.1.pw.toml"
 hash = "096b8e62fe666bc8e32d4fd5c5512dcd3e464f7f4e29979f00d8ddd2e22a931e"
-metafile = true
-
-[[files]]
-file = "mods/create-tfmg.pw.toml"
-hash = "dfbb2a077b144492f48af0255906b146d56011ccb6c6f6e343bab703e8cc0f79"
 metafile = true
 
 [[files]]
