@@ -784,11 +784,6 @@ hash = "e11d2e233aecbb9bf9fa8db6a6290a9f0a631ba4b2dbfec985c0e2d60d72d401"
 metafile = true
 
 [[files]]
-file = "mods/stellaris.pw.toml"
-hash = "d8c155733358fc2d5b16c59748808df53f39315886db1f975e90f00b1a9ee3fe"
-metafile = true
-
-[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "2e42245826ce70d4ad673addb0e5244da388841f1484f03ee5a9426ee33b2229"
 metafile = true
