@@ -22,7 +22,7 @@ hash = "0b1e78e8f24b9e8aa0e7dc3993efd326d169a91365bcec87cd69089d1ff9403a"
 
 [[files]]
 file = "config/refinedstorage-common.toml"
-hash = "59757f1f21562f706d8e76b89ce5488fc4af70eb2a5ffac1307f321f2481cbb8"
+hash = "5d9c11615cba8fd6c70710e6c30afa4b60be8096549998e3e17a54c173fbb3f9"
 
 [[files]]
 file = "config/refinedstorage_quartz_arsenal-common.toml"
