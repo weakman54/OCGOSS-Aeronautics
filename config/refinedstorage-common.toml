@@ -135,13 +135,13 @@ autocraftingPreviewStyle = "LIST"
 	regulatorUpgradeEnergyUsage = 16
 	# Default: 8
 	# Range: 0 ~ 9223372036854775807
-	rangeUpgradeEnergyUsage = 8
+	rangeUpgradeEnergyUsage = 32
 	# Default: 0
 	# Range: 0 ~ 9223372036854775807
 	creativeRangeUpgradeEnergyUsage = 0
 	# Default: 8
 	# Range: > 0
-	rangeUpgradeRange = 8
+	rangeUpgradeRange = 16
 	# Default: 8
 	# Range: 0 ~ 9223372036854775807
 	autocraftingUpgradeUsage = 8
@@ -188,10 +188,10 @@ autocraftingPreviewStyle = "LIST"
 [wirelessTransmitter]
 	# Default: 16
 	# Range: 0 ~ 9223372036854775807
-	energyUsage = 16
+	energyUsage = 64
 	# Default: 16
 	# Range: > 0
-	baseRange = 16
+	baseRange = 32
 
 [storageMonitor]
 	# Default: 4
