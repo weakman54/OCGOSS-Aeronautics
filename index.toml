@@ -13,6 +13,10 @@ file = "config/computercraft-server.toml"
 hash = "6552459dd0c41896316cebd2ddfca1f28e7ce04c708b245ee43cb26b24ec2876"
 
 [[files]]
+file = "config/create_jetpack-common.toml"
+hash = "35398f39386bf0b64a7cfc516a5490f0b04f22ab4115aae652046d297f121ac9"
+
+[[files]]
 file = "config/createaddition-common.toml"
 hash = "47f9ce12cf714cd5a8a393ef6fd999dbac7cac4d07ef130fc6e9270232e1c186"
 
