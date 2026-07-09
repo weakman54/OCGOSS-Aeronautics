@@ -226,6 +226,11 @@ hash = "5fab8d2e412683dfd72f08cf6750e51b03cb43192e8eb783e962ba28d20978bc"
 metafile = true
 
 [[files]]
+file = "mods/create-aeroworks.pw.toml"
+hash = "2f02126de38cf2a656b7ae97aa1f6c1a153498f5cdb03fe197c291d9c43cbb5a"
+metafile = true
+
+[[files]]
 file = "mods/create-alcoholic-beverages.pw.toml"
 hash = "28f2a6058eea2927b1b7676d90b2d318e1ee9353bb5a46d9b0fb3e874be48e3d"
 metafile = true
