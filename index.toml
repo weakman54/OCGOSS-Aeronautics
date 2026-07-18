@@ -9,6 +9,10 @@ file = "config/computercraft-server.toml"
 hash = "6552459dd0c41896316cebd2ddfca1f28e7ce04c708b245ee43cb26b24ec2876"
 
 [[files]]
+file = "config/create_connected-common.toml"
+hash = "3e9b4688259a1c3eca48bf3efc69e990f1150827ad19b1f790829fd68fef5cd8"
+
+[[files]]
 file = "config/create_jetpack-common.toml"
 hash = "35398f39386bf0b64a7cfc516a5490f0b04f22ab4115aae652046d297f121ac9"
 
