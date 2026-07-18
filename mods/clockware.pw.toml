@@ -1,0 +1,13 @@
+name = "Create: Clockware Augments"
+filename = "clockware-1.0.0+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R1ZmAXtb/versions/6jyoB7x3/clockware-1.0.0%2B1.21.jar"
+hash-format = "sha512"
+hash = "0ef6700fea441dbf9533316e2a9dba8d9cc14206f0df32e7366d41636da19c3578c5baed9b1818d603141887aacedf5a768b15f1b2f338e3052c1284a2e7e81c"
+
+[update]
+[update.modrinth]
+mod-id = "R1ZmAXtb"
+version = "6jyoB7x3"
