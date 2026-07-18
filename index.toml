@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "cfadd.sh"
-hash = "719be45f71124e4f78d453b059addb3f7f61fdb5b6baeeff3ff43ec1e0f90c55"
-
-[[files]]
 file = "config/aether-common.toml"
 hash = "178bf18011f06b8de5df04c3b2184caeb479f28a6aae1e9e9ff15f300044b97e"
 
@@ -1191,11 +1187,3 @@ metafile = true
 file = "mods/wunderlib-neoforge.pw.toml"
 hash = "be9540e46f1fb23ecc35d79b468480558924c518f759e46783f9d9de68b772f3"
 metafile = true
-
-[[files]]
-file = "mradd.sh"
-hash = "a5233d83ed4faec62a1c9c5ab969ddf32f1348cf31d929ab38c9e06043037e52"
-
-[[files]]
-file = "xaa"
-hash = "a5c6deb18bf4dde065104184b76da5ddd5c467c6bb784c8b89cab2452281d789"
