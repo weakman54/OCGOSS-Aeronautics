@@ -167,6 +167,11 @@ hash = "22d9510588b081cf9905f6549d24bc11012aa8d9c7d38a8619ab9db5ccb7b9a8"
 metafile = true
 
 [[files]]
+file = "mods/c-fmg-and-c-dg-compatibility.pw.toml"
+hash = "905eef057d5f472d6fd7ea5d9ec2af0fc068e50c027ac4ddd35e3f74abe0727d"
+metafile = true
+
+[[files]]
 file = "mods/cable-facades.pw.toml"
 hash = "fc76a6254c251ebde067cfe0ab7726673d215cba814fe1dcfe3030d1311a313c"
 metafile = true
@@ -349,6 +354,11 @@ metafile = true
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "e05bc0c3ee97da0dfcf9dabd3c3eaee0e90819091ead3f500ddc3b1caf77fe54"
+metafile = true
+
+[[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "8c13c49284e9c2f9007874916ab401799f66f5549779881ab2b9bcc57d450f13"
 metafile = true
 
 [[files]]
