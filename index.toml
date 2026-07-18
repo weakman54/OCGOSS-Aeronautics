@@ -162,6 +162,11 @@ hash = "feb4efaaeaa4ee270d04de7f06e377ada25e3977649c7d6de227ea6338396634"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "22d9510588b081cf9905f6549d24bc11012aa8d9c7d38a8619ab9db5ccb7b9a8"
+metafile = true
+
+[[files]]
 file = "mods/cable-facades.pw.toml"
 hash = "fc76a6254c251ebde067cfe0ab7726673d215cba814fe1dcfe3030d1311a313c"
 metafile = true
@@ -232,8 +237,18 @@ hash = "9edfcf5022b68ae0234b2d5c15b710fc3f27407d84aeeb917615dffbd42c8b92"
 metafile = true
 
 [[files]]
+file = "mods/corn-delight.pw.toml"
+hash = "c7d7ee14a057fc2c5b1e36af8da13f4e702f15109d5bc247daa4246ca8302dc3"
+metafile = true
+
+[[files]]
 file = "mods/cosmos-infinia.pw.toml"
 hash = "d8f9d34c0161b610bfc1340bf0b59f0a0b792fb0d8af20dfb8ada5a26faf50a0"
+metafile = true
+
+[[files]]
+file = "mods/crabbers-delight.pw.toml"
+hash = "7ea72bc415b4b067a98790b5fcef0afd843a226587588b293b6cbf145d834575"
 metafile = true
 
 [[files]]
@@ -491,6 +506,11 @@ hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
+file = "mods/delight-lib.pw.toml"
+hash = "c4fb5bf78ad912a20ff50767f4e5cb64fd84f04d58db0c79bc728b643acc4038"
+metafile = true
+
+[[files]]
 file = "mods/delightful-creators.pw.toml"
 hash = "f77747f2492fd97202d853b78dd58f17b8c4d56ea66f1e04b1c6ad83f6ab30ec"
 metafile = true
@@ -595,6 +615,11 @@ hash = "1c516c3cdedc1a2b6bdd4d7ab12469142d5ee9dadc03e815be3f2a04b95f7135"
 metafile = true
 
 [[files]]
+file = "mods/extradelight.pw.toml"
+hash = "d3cb20ad2dc8cdbf989751ad22ca4192782f68487e5e8c05e0a3f5a88d52780c"
+metafile = true
+
+[[files]]
 file = "mods/factory-blocks.pw.toml"
 hash = "36cc04059e9287c087425d5e3f156b2198817e32f38a2974ccade586939e96bc"
 metafile = true
@@ -635,6 +660,11 @@ hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
 metafile = true
 
 [[files]]
+file = "mods/fruits-delight.pw.toml"
+hash = "bd54b25ed6127a176979f89d56ebee73856ff5023c575232ee707571fcdb2c1c"
+metafile = true
+
+[[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
 hash = "268e0ccb66eb96da9a85f129ee1247581398e6d4848d190647729cd68a7a5006"
 metafile = true
@@ -652,6 +682,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-ultimine-forge.pw.toml"
 hash = "3529bc9c3a7b54933869be1d1d84a948d091c3d6064bbb6b17874d7c153b4dca"
+metafile = true
+
+[[files]]
+file = "mods/fungi-delight.pw.toml"
+hash = "2997a93c85ff1cb7db547bb659beb333d93c99153cb0e9d4d6ead7b427835d14"
 metafile = true
 
 [[files]]
@@ -780,8 +815,18 @@ hash = "88669a9f7da5bc6cbdef599dcbcc680df8b93120c383f6d1f65bbd30f05d5d01"
 metafile = true
 
 [[files]]
+file = "mods/mmlib.pw.toml"
+hash = "65db1262f3d0823a0795b8b38328c0eceeb4632892f7c168e3c8e6abf4638735"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "9d84be24f2e6adbf75dec35a2bc9b147c840eefe2a7f4138c40cb7ca315f2678"
+metafile = true
+
+[[files]]
+file = "mods/more-delight.pw.toml"
+hash = "7b00b0ef46a798a4a46fe541314c63cfd62017190cd554e855cc21ef44e32635"
 metafile = true
 
 [[files]]
@@ -914,6 +959,11 @@ hash = "275d8e13b8bea48d95d511067bbf91ce99b38841e4461b44f9017b827dfbd8d2"
 metafile = true
 
 [[files]]
+file = "mods/recipe-modification.pw.toml"
+hash = "fcc5142f8aa8a7c0d9d26dcfd5727f3cf046bd2f1def594ef74e969df48cef9a"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage-curios-integration.pw.toml"
 hash = "dd921ca691006e169455a925ed330319df5d19771863be0e9e80b5083d8f08d1"
 metafile = true
@@ -954,6 +1004,11 @@ hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
 metafile = true
 
 [[files]]
+file = "mods/rustic-delight.pw.toml"
+hash = "3da8a9aa7208ef7593239ecd755f40a564fd6b1883737796ecf9aab3744140dd"
+metafile = true
+
+[[files]]
 file = "mods/sable.pw.toml"
 hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
 metafile = true
@@ -981,6 +1036,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "b09f7819bbd22c2cc6a70601295721cb3bee6d830ca2f51fdacb50de519596e8"
+metafile = true
+
+[[files]]
+file = "mods/some-assembly-required.pw.toml"
+hash = "04f06b630fb9479786c6b86696af543d7108b3dba50f651437c865d02e773a0f"
 metafile = true
 
 [[files]]
@@ -1026,6 +1086,11 @@ metafile = true
 [[files]]
 file = "mods/ssrd.pw.toml"
 hash = "e11d2e233aecbb9bf9fa8db6a6290a9f0a631ba4b2dbfec985c0e2d60d72d401"
+metafile = true
+
+[[files]]
+file = "mods/storage-delight.pw.toml"
+hash = "1f0065c7214cd6b83cfccd5eb85967b1091271e44e0e0f7b1eb3c4aa7f22b203"
 metafile = true
 
 [[files]]
@@ -1076,6 +1141,16 @@ metafile = true
 [[files]]
 file = "mods/vanilla-aiots.pw.toml"
 hash = "0e185f70aaa171ba408208fee046c2f5bc5e5d6ee1c1609c906b26f4e4588253"
+metafile = true
+
+[[files]]
+file = "mods/vegan-delight.pw.toml"
+hash = "2db93afe3bf4cbcfee9025495c50bad07c5984012c57378271ba29a5775b4c05"
+metafile = true
+
+[[files]]
+file = "mods/veggies-delight.pw.toml"
+hash = "5dd23a011f0441722527617d65eaa2c49b9e094d028d63dd361f1e4eca790846"
 metafile = true
 
 [[files]]
