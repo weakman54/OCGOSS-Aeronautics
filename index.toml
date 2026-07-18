@@ -262,6 +262,11 @@ hash = "89f883bddfb008d0cf9b6ed4ff49795b351f3f5c3e5e3cc8e3a2818a81cea9b5"
 metafile = true
 
 [[files]]
+file = "mods/create-ballast.pw.toml"
+hash = "fcabd265b7d88372614d74bae22c7a1ea90c830ff4e8aa13d8354bece9690555"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons-going-ballistic.pw.toml"
 hash = "6c691c3be7ea89f3f89e982a43c5c9f02be35ae0c81d13d9085a28b763b154d7"
 metafile = true
@@ -299,6 +304,11 @@ metafile = true
 [[files]]
 file = "mods/create-cheese.pw.toml"
 hash = "b6945f59f87f123909cc548c573b1fa0ee7459b9acedd9643efa7517d6d41336"
+metafile = true
+
+[[files]]
+file = "mods/create-compact-flap.pw.toml"
+hash = "fb073ef2c714a883bb90b6c5a1bdcbeae5bf52a4f2e16c513f978de36a45769f"
 metafile = true
 
 [[files]]
