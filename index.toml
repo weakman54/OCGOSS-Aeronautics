@@ -187,11 +187,6 @@ hash = "0194091946d249681e33dd32a927122e844d4093c2f14165f2f99f92e028af11"
 metafile = true
 
 [[files]]
-file = "mods/central-heater.pw.toml"
-hash = "6b26837f2747663c133d278e8a3eaab5d326b2497db669ecc01b362f85ad924a"
-metafile = true
-
-[[files]]
 file = "mods/cgs.pw.toml"
 hash = "fc397894e8e0371085c333389738862745d8872d6e550a82c7a1d15600575668"
 metafile = true
@@ -637,11 +632,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
-metafile = true
-
-[[files]]
-file = "mods/farmers-heater.pw.toml"
-hash = "9922d48460099d32ecdaad4b466ce757b921f7b319c12a9a9958704ae6c73bf1"
 metafile = true
 
 [[files]]
