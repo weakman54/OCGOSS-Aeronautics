@@ -1,0 +1,13 @@
+name = "New Year's Delight (A Farmer's Delight Add-on)"
+filename = "neoforge-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7IxJ2L3l/versions/BelBeSFT/neoforge-1.21.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "f13c0588074ad41cf7704e01c68b4e8bab51e24adc567cd22054eeed077fc4e30ed758d0c3732937b95df219b941c2784bc65d8c4d177d0ffe448d835c2a18b0"
+
+[update]
+[update.modrinth]
+mod-id = "7IxJ2L3l"
+version = "BelBeSFT"

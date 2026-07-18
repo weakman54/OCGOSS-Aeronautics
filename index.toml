@@ -357,6 +357,11 @@ hash = "e0477c7fcb9ea370df1e278357722ac5ee8a1c89e6b4c8b84c41f3724426b7bf"
 metafile = true
 
 [[files]]
+file = "mods/create-fd-dough.pw.toml"
+hash = "734ac10c4af17fc334c9440e7919ea1621730f41f9edcaaf848d6ba3aa450a3e"
+metafile = true
+
+[[files]]
 file = "mods/create-grappling-hooks.pw.toml"
 hash = "7a8ea6547288b4f4b1affc1c5017b292edf22f4793bce7c47d8e7510edfff6db"
 metafile = true
@@ -486,6 +491,11 @@ hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
+file = "mods/delightful-creators.pw.toml"
+hash = "f77747f2492fd97202d853b78dd58f17b8c4d56ea66f1e04b1c6ad83f6ab30ec"
+metafile = true
+
+[[files]]
 file = "mods/destroy-1.21.1-0.2.1.jar"
 hash = "3252169217833bbcde499343ea43902ea08f904054ded2d9bb3726e0fed240ff"
 
@@ -510,6 +520,11 @@ hash = "f943c276fcebd5542c4b3dda60634728e1a70212f15dc9af8f0b7b9bb40199db"
 metafile = true
 
 [[files]]
+file = "mods/dumplings-delight-rewrapped.pw.toml"
+hash = "e86d65c916d8e7fd004a02a4203e39786b9d54de5640a30ee06f1c91ce35c81a"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-dimensions-ar-edition.pw.toml"
 hash = "28392d58694db3adc558c5b7123276868dc1d5f91cfb381e09fa32e191e82dd1"
 metafile = true
@@ -522,6 +537,11 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "b42ea604c46fc73d9474ebc9d6d3d64a1efe6b9d5df8512c71a86f820eb8a105"
+metafile = true
+
+[[files]]
+file = "mods/easters-delight.pw.toml"
+hash = "f18306488f1bed84627559c004e5a4d7cb01f116e76bcfc55d37be2bbfa22c5f"
 metafile = true
 
 [[files]]
@@ -592,6 +612,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-heater.pw.toml"
 hash = "9922d48460099d32ecdaad4b466ce757b921f7b319c12a9a9958704ae6c73bf1"
+metafile = true
+
+[[files]]
+file = "mods/farmers-pizzeria.pw.toml"
+hash = "ef7be6b02d0348ff3b296b95654fb02b18af552dd7807f568cac11850c92acbe"
 metafile = true
 
 [[files]]
@@ -705,6 +730,11 @@ hash = "ab1fea261d5c14aade38b0e596cb99d66c4beb2bc1f4d53fb3106df5dee98008"
 metafile = true
 
 [[files]]
+file = "mods/kazakh-delight.pw.toml"
+hash = "b1e0205744fe6739de8ff25879b1021f6fd94c9bb64ee5c7d145a2b5b8ce7132"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
@@ -777,6 +807,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
+metafile = true
+
+[[files]]
+file = "mods/new-years-delight-(a-farmers-delight-add-on).pw.toml"
+hash = "3cd0e2d4b222ad3631014f953dd6daf83fc94ef8d589414cda3135f6cd13b7bc"
 metafile = true
 
 [[files]]
@@ -866,6 +901,11 @@ metafile = true
 [[files]]
 file = "mods/pretty-in-pink.pw.toml"
 hash = "47563beaf6073dabfb48c0acb465afd119b663b39fc4ad7e148079f4bfe1082a"
+metafile = true
+
+[[files]]
+file = "mods/ramadan-delight.pw.toml"
+hash = "7fa962c3eeb39b809be04b7d0185e8b92ee66423fad3da4abb83e7c688602dc4"
 metafile = true
 
 [[files]]
