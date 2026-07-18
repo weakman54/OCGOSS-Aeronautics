@@ -1,0 +1,13 @@
+name = "Farmer's Cutting Collection"
+filename = "farmers-cutting-collection-1.21.1-1.3-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bApGjY4X/versions/CS9Y6j0L/farmers-cutting-collection-1.21.1-1.3-neoforge.jar"
+hash-format = "sha512"
+hash = "d016130a86c4744ec4046cab4a9808e3a750c873e420334f791de4cc275d67920342ab32035e141f1fd6e9bd71326fcef6a8450a5a2b07af39cd03823817212f"
+
+[update]
+[update.modrinth]
+mod-id = "bApGjY4X"
+version = "CS9Y6j0L"

@@ -490,6 +490,11 @@ hash = "54c0985498a40c7b9c63e336c11c1c48770dbfdf50c07dff988c1b086d26ba2f"
 metafile = true
 
 [[files]]
+file = "mods/display-delight.pw.toml"
+hash = "18219006cd971209a7630c5704c2ca92d5631f3d6ee6cb1c43975656c249ba0f"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "937a5af04455f2afb7bac9184749d36b0e340ab5c4e70fc21ae8ec74de043c08"
 metafile = true
@@ -567,6 +572,21 @@ metafile = true
 [[files]]
 file = "mods/factory-blocks.pw.toml"
 hash = "36cc04059e9287c087425d5e3f156b2198817e32f38a2974ccade586939e96bc"
+metafile = true
+
+[[files]]
+file = "mods/farmers-cutting-collection.pw.toml"
+hash = "acbf13669b9ec8f4fe8e406bad71c5a925246bb64a4f8501efce2a88c87437b9"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
+metafile = true
+
+[[files]]
+file = "mods/farmers-heater.pw.toml"
+hash = "9922d48460099d32ecdaad4b466ce757b921f7b319c12a9a9958704ae6c73bf1"
 metafile = true
 
 [[files]]
@@ -772,6 +792,11 @@ metafile = true
 [[files]]
 file = "mods/observable.pw.toml"
 hash = "3e477c97729015ac6184c0b56cb148947b7c0dc5cca764336ee96719f05f05e6"
+metafile = true
+
+[[files]]
+file = "mods/onion-onion.pw.toml"
+hash = "d3702e5478468ab7395819e06d1118f269457a91dd26a2fffeefe0ff40068b25"
 metafile = true
 
 [[files]]
