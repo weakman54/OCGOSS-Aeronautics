@@ -220,9 +220,8 @@ hash = "0752ec9f3ef57c06a49813e1d1d1d442a124b3a7586bd232003055dc343a317f"
 metafile = true
 
 [[files]]
-file = "mods/clockware.pw.toml"
-hash = "93efa2230fbb83a2eca8cf910ceb1ba7d2fbd14c0a94cfac456aa2774711ede5"
-metafile = true
+file = "mods/clockware-1.0.2.jar"
+hash = "5c55b7d13e86d6a8171197dd0e9f86ea1a3680b145a525e4fcaaa0ed2c8a9d45"
 
 [[files]]
 file = "mods/connector.pw.toml"
