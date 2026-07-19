@@ -175,6 +175,11 @@ hash = "22d9510588b081cf9905f6549d24bc11012aa8d9c7d38a8619ab9db5ccb7b9a8"
 metafile = true
 
 [[files]]
+file = "mods/c-fmg-and-c-dg-compatibility.pw.toml"
+hash = "905eef057d5f472d6fd7ea5d9ec2af0fc068e50c027ac4ddd35e3f74abe0727d"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "1a611a71baaf48d69f2a0fd226bc302b766ba0f54feabea802e28d51a40879ef"
 metafile = true
