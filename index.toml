@@ -924,11 +924,6 @@ hash = "697e5d429406179e06f02a1f4fe9e337df56adf36cee6c35e9f08b6bcd0cade6"
 metafile = true
 
 [[files]]
-file = "mods/per-spatium.pw.toml"
-hash = "557c7470f6fa151d176e684154b22ea9a53b80f57070a8ae6eeccf771f336cab"
-metafile = true
-
-[[files]]
 file = "mods/petrolpark.pw.toml"
 hash = "ff0b2e2116e40733173c4e6654e838e196cd227f75533befd442b4e8c38b0c79"
 metafile = true
