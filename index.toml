@@ -9,6 +9,10 @@ file = "config/computercraft-server.toml"
 hash = "6552459dd0c41896316cebd2ddfca1f28e7ce04c708b245ee43cb26b24ec2876"
 
 [[files]]
+file = "config/copycats-common.toml"
+hash = "728ac794c678afbbe16b9cefb6a13ea708322700aa408560719e63ff79b03362"
+
+[[files]]
 file = "config/create_connected-common.toml"
 hash = "3e9b4688259a1c3eca48bf3efc69e990f1150827ad19b1f790829fd68fef5cd8"
 
