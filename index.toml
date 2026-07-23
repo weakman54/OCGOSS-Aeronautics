@@ -752,6 +752,11 @@ hash = "4dcfc94168c8681f207b0124d574a970472601cd1b5e9b215a37265c753b7b47"
 metafile = true
 
 [[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "75b43f1a86593360f10703b7625da4e0a3c435bf13bf8b5b75fa383a0338dade"
+metafile = true
+
+[[files]]
 file = "mods/interiors.pw.toml"
 hash = "e7e6b3effe3022cf1fdb900c857111fdcbfd6b385c2d5bd28c914efaed436ecb"
 metafile = true
@@ -788,7 +793,7 @@ metafile = true
 
 [[files]]
 file = "mods/joy-of-painting.pw.toml"
-hash = "ab1fea261d5c14aade38b0e596cb99d66c4beb2bc1f4d53fb3106df5dee98008"
+hash = "9f980de450d5b29d751bb78338b8d8a984deb44308f3d43e1ff9b3238af0e086"
 metafile = true
 
 [[files]]
