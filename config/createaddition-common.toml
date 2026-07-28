@@ -67,15 +67,15 @@
 	#Small Connector max input in FE/t (Energy transfer).
 	# Default: 1000
 	# Range: > 0
-	small_connector_max_input = 1000
+	small_connector_max_input = 10000
 	#Small Connector max output in FE/t (Energy transfer).
 	# Default: 1000
 	# Range: > 0
-	small_connector_max_output = 1000
+	small_connector_max_output = 10000
 	#Small Connector max wire length in blocks.
 	# Default: 16
 	# Range: 0 ~ 256
-	small_connector_wire_length = 16
+	small_connector_wire_length = 48
 	#Small Connector With Light energy consumption in FE/t.
 	# Default: 1
 	# Range: > 0
@@ -83,15 +83,15 @@
 	#Large Connector max input in FE/t (Energy transfer).
 	# Default: 5000
 	# Range: > 0
-	large_connector_max_input = 5000
+	large_connector_max_input = 50000
 	#Large Connector max output in FE/t (Energy transfer).
 	# Default: 5000
 	# Range: > 0
-	large_connector_max_output = 5000
+	large_connector_max_output = 50000
 	#Large Connector max wire length in blocks.
 	# Default: 32
 	# Range: 0 ~ 256
-	large_connector_wire_length = 32
+	large_connector_wire_length = 96
 	#Ignore checking if block face can support connector.
 	connector_ignore_face_check = true
 	#Allows blocks attached to a connector to freely pass energy to and from the connector network.
@@ -102,11 +102,11 @@
 	#Accumulator max input in FE/t (Energy transfer).
 	# Default: 5000
 	# Range: > 0
-	accumulator_max_input = 5000
+	accumulator_max_input = 50000
 	#Accumulator max output in FE/t (Energy transfer).
 	# Default: 5000
 	# Range: > 0
-	accumulator_max_output = 5000
+	accumulator_max_output = 50000
 	#Accumulator internal capacity per block in FE.
 	# Default: 2000000
 	# Range: > 0
@@ -114,29 +114,29 @@
 	#Accumulator max multiblock height.
 	# Default: 5
 	# Range: 1 ~ 8
-	accumulator_max_height = 5
+	accumulator_max_height = 8
 	#Accumulator max multiblock width.
 	# Default: 3
 	# Range: 1 ~ 8
-	accumulator_max_width = 3
+	accumulator_max_width = 8
 
 #Portable Energy Interface
 [portable_energy_interface]
 	#PEI max input in FE/t (Energy transfer).
 	# Default: 5000
 	# Range: > 0
-	pei_max_input = 5000
+	pei_max_input = 50000
 	#PEI max output in FE/t (Energy transfer).
 	# Default: 5000
 	# Range: > 0
-	pei_max_output = 5000
+	pei_max_output = 50000
 
 #Tesla Coil
 [tesla_coil]
 	#Tesla Coil max input in FE/t (Energy transfer).
 	# Default: 10000
 	# Range: > 0
-	tesla_coil_max_input = 10000
+	tesla_coil_max_input = 100000
 	#Tesla Coil charge rate in FE/t.
 	# Default: 5000
 	# Range: > 0

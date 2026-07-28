@@ -132,7 +132,7 @@ autocraftingPreviewStyle = "LIST"
 	silkTouchUpgradeEnergyUsage = 16
 	# Default: 16
 	# Range: 0 ~ 9223372036854775807
-	regulatorUpgradeEnergyUsage = 16
+	regulatorUpgradeEnergyUsage = 3
 	# Default: 8
 	# Range: 0 ~ 9223372036854775807
 	rangeUpgradeEnergyUsage = 32
