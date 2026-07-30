@@ -41,6 +41,10 @@ file = "config/refinedstorage_quartz_arsenal-common.toml"
 hash = "801422f99c077fcf3d54103d54f9235008172f37dd35fdf5236d7db39863c9e0"
 
 [[files]]
+file = "config/sliceanddice-common.toml"
+hash = "b40e2662ff41ff9c1420c52e65c9b4a8c1a7634d14b31929cad08d64ae844b75"
+
+[[files]]
 file = "config/supplementaries-common.toml"
 hash = "318c238d5f1d6636b23949c9fd1e652e27e64b29ca7be4f106238f356c783b1b"
 
