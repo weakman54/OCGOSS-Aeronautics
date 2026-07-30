@@ -42,7 +42,7 @@ hash = "801422f99c077fcf3d54103d54f9235008172f37dd35fdf5236d7db39863c9e0"
 
 [[files]]
 file = "config/sliceanddice-common.toml"
-hash = "b40e2662ff41ff9c1420c52e65c9b4a8c1a7634d14b31929cad08d64ae844b75"
+hash = "9383425d522f7de1ca13a7bc59df80f411009cfa220b61eafa591fb5e5558131"
 
 [[files]]
 file = "config/supplementaries-common.toml"
