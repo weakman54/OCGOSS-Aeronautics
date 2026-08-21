@@ -994,6 +994,11 @@ hash = "b484f15d3353a7d4b3baf14b9da340c922299aead74f7f052dd886f49489d7fd"
 metafile = true
 
 [[files]]
+file = "mods/power-grid.pw.toml"
+hash = "0a8751beba30f064c60e2baa923aa677ff2e885f065cff915a9e771190c47053"
+metafile = true
+
+[[files]]
 file = "mods/pretty-in-pink.pw.toml"
 hash = "47563beaf6073dabfb48c0acb465afd119b663b39fc4ad7e148079f4bfe1082a"
 metafile = true
