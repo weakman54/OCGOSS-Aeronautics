@@ -775,6 +775,11 @@ hash = "89321cbcc8789aca2ba0e70cbd3e498de493a5f2b9db51f9c72d65d99c7afee7"
 metafile = true
 
 [[files]]
+file = "mods/hypertube.pw.toml"
+hash = "672fe2518a1795814efc943c3e3cf8dc1b993bc7d838cc62950acfaba348c2c7"
+metafile = true
+
+[[files]]
 file = "mods/ichunutil.pw.toml"
 hash = "4dcfc94168c8681f207b0124d574a970472601cd1b5e9b215a37265c753b7b47"
 metafile = true
