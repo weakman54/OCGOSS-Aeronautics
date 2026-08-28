@@ -138,6 +138,11 @@ hash = "19a3cfaafd2121e42ac7498244d94987fc27a6bdce6a7bc862baadce90811822"
 metafile = true
 
 [[files]]
+file = "mods/armor-poser.pw.toml"
+hash = "dd53b3b5adefe064039249ceeb51f820d102dfdf8a157974ee462d066a30ef5f"
+metafile = true
+
+[[files]]
 file = "mods/athena.pw.toml"
 hash = "38bddea8d550568799dd7f208c0bbe10280de3e456016a0d59aa20de112a2345"
 metafile = true
@@ -344,6 +349,11 @@ metafile = true
 [[files]]
 file = "mods/create-cafe.pw.toml"
 hash = "b79238bd1e524932445f1eadbb6d4944a0890189f8ffc9499662db98c14aac63"
+metafile = true
+
+[[files]]
+file = "mods/create-capsule-corp..pw.toml"
+hash = "f4399ea0e3f6238bfffd93bf252a265d7e47a20d8f948dd7f6199f87e43ca12f"
 metafile = true
 
 [[files]]
@@ -1231,6 +1241,11 @@ metafile = true
 [[files]]
 file = "mods/vista_tv.pw.toml"
 hash = "fd55f78d10d4997f024a80d68bc521287f732cfcd1dd254945a793992c6e2ef5"
+metafile = true
+
+[[files]]
+file = "mods/vs-hose-connectors.pw.toml"
+hash = "6c9883d2fa1643fe221307ab0101fbccb204c80953989d3e064872b4f45efd34"
 metafile = true
 
 [[files]]
