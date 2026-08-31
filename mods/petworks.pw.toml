@@ -1,0 +1,8 @@
+name = "petworks"
+filename = "petworks-fabric-0.2.0-beta.3+mc.1.21.1-build.local.jar"
+side = "both"
+
+[download]
+url = "https://miafoxcat.gay/petworks-fabric-0.2.0-beta.3+mc.1.21.1-build.local.jar"
+hash-format = "sha256"
+hash = "44e16bd10c4bc86340b23e92eb1eff3ad3ef786581f4665687415ac8d70d16ea"
