@@ -452,11 +452,6 @@ hash = "7a8ea6547288b4f4b1affc1c5017b292edf22f4793bce7c47d8e7510edfff6db"
 metafile = true
 
 [[files]]
-file = "mods/create-industry.pw.toml"
-hash = "27ba9439d6b25314cfca911c474a9a34933dc7a25b4ee42ae3f2782f8d03b676"
-metafile = true
-
-[[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "4c0763d5351f0264d1d60c6fee012663f4855a9def0c31c309560779782945d1"
 metafile = true
@@ -1227,6 +1222,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+metafile = true
+
+[[files]]
+file = "mods/tfmg-community-edition.pw.toml"
+hash = "e0bf2a73a55e1ae63171ece74ae521f9a9827f12f43bd69e8b67f29bd3a20521"
 metafile = true
 
 [[files]]
