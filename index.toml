@@ -61,8 +61,16 @@ file = "kubejs/server_scripts/etched_blank_music_disk_recipe.js"
 hash = "5dcd984dc8fe97137ce76c1de0f8c06c15b91f22eb09869342312b4cd248a05e"
 
 [[files]]
+file = "kubejs/server_scripts/garlic_bread.js"
+hash = "8ab032eca6d12a3e729bff4198f9d3b890e56ac66c531d2d2cd8ac279b9f4af8"
+
+[[files]]
 file = "kubejs/server_scripts/tfmg.js"
 hash = "eca79a615ce4796980d1a0907e066e8f52884feb83f1157d462fb02e25c89ba8"
+
+[[files]]
+file = "kubejs/server_scripts/thigh_highs.js"
+hash = "e8d0722d538276b73fa19d6a778b85fcfca27cc070e9a4fa5836895987e7a886"
 
 [[files]]
 file = "kubejs/startup_scripts/item_stack_limit.js"
@@ -115,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "3d8f918c52e27d4c640f78c67c0a51a2ddbe4e3703c149e8ed9461f43bd5fedd"
+metafile = true
+
+[[files]]
+file = "mods/alternative-authentication.pw.toml"
+hash = "fe325970b6cee0af4d62e3142af76358bdeb1952f1fa12e558fb51379b75fb4c"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Alternative Authentication"
+filename = "alternative-auth-1.1.1+1.20.2-1.21.x.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/iF6szt3y/versions/YLRrAFpi/alternative-auth-1.1.1%2B1.20.2-1.21.x.jar"
+hash-format = "sha512"
+hash = "836782038e9490acf7f376639690c93f6e3d83be8866169c0e6af678f4ac960e5dd25dd5a1042104317dd66680e49a3f99cbaeae94bfa36b670fc7600629c0ff"
+
+[update]
+[update.modrinth]
+mod-id = "iF6szt3y"
+version = "YLRrAFpi"
