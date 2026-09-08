@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
@@ -923,6 +923,11 @@ hash = "88669a9f7da5bc6cbdef599dcbcc680df8b93120c383f6d1f65bbd30f05d5d01"
 metafile = true
 
 [[files]]
+file = "mods/markdownmanual.pw.toml"
+hash = "82cef575ea8b9d7c6d0026cd2f3c41a0923863506af441dfb4d7031e32e379a6"
+metafile = true
+
+[[files]]
 file = "mods/mmlib.pw.toml"
 hash = "65db1262f3d0823a0795b8b38328c0eceeb4632892f7c168e3c8e6abf4638735"
 metafile = true
@@ -990,6 +995,11 @@ metafile = true
 [[files]]
 file = "mods/onion-onion.pw.toml"
 hash = "d3702e5478468ab7395819e06d1118f269457a91dd26a2fffeefe0ff40068b25"
+metafile = true
+
+[[files]]
+file = "mods/opencomputers-ii.pw.toml"
+hash = "f57771cb8770b67bdc5d42114e5fb0deb1d74ff5e126916705cb5144afbd417e"
 metafile = true
 
 [[files]]
