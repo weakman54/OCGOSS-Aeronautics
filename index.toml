@@ -490,6 +490,11 @@ hash = "939f0de84b51b0038cdaf003aa467ad46a3c408afc2633a76a1acda6f908be58"
 metafile = true
 
 [[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "39499039e11a6e0f50542d80af94c172342fdb686f3a59d5ee4457d978a54e75"
+metafile = true
+
+[[files]]
 file = "mods/create-old-infrastructure.pw.toml"
 hash = "0c9fa8b644fe03d6a040eaa6cab43623fd7b4a7fa8850d4f1428858c09f5c39e"
 metafile = true
