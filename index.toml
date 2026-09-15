@@ -266,7 +266,7 @@ hash = "5c55b7d13e86d6a8171197dd0e9f86ea1a3680b145a525e4fcaaa0ed2c8a9d45"
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "e487d315e7a44f917cd1ddc2da1b26e65968bc19fe6c0ac868dab3d2bb97bbf1"
+hash = "a38d72ca403e9064338be6e0cf69532768b0c1aba8f88703a8ce74c2734da522"
 metafile = true
 
 [[files]]
@@ -594,6 +594,11 @@ hash = "50bb1e11d03ffd1492fcda9bd6be84707119a3eed3a9760d99c739b97224015a"
 metafile = true
 
 [[files]]
+file = "mods/dancerizer.pw.toml"
+hash = "1602efacafcdea2020e9c89d3001eb72d7d6b309a981d1ad81d0e22805bd126c"
+metafile = true
+
+[[files]]
 file = "mods/delight-lib.pw.toml"
 hash = "c4fb5bf78ad912a20ff50767f4e5cb64fd84f04d58db0c79bc728b643acc4038"
 metafile = true
@@ -713,6 +718,11 @@ hash = "d3cb20ad2dc8cdbf989751ad22ca4192782f68487e5e8c05e0a3f5a88d52780c"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
+metafile = true
+
+[[files]]
 file = "mods/factory-blocks.pw.toml"
 hash = "36cc04059e9287c087425d5e3f156b2198817e32f38a2974ccade586939e96bc"
 metafile = true
@@ -739,7 +749,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
-hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
+hash = "ec1bd5b80399287ca33a113086bee9d5697b7e673c9f593e5a1aeca4c9bad4c9"
 metafile = true
 
 [[files]]
