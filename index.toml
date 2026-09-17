@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/bclib-neoforge.pw.toml"
-hash = "b8f9ab3c229ca511126a007b17916155252e510a25368c2277d6896503ee7d97"
+hash = "e9d3a35de86ee3896a01257fd5f0f31ae3934db5fa329aefa3e56ebdfef5a7a6"
 metafile = true
 
 [[files]]
@@ -1339,7 +1339,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldweaver-neoforge.pw.toml"
-hash = "ee8f963ec9dc72467d15af46af53685bc2b199b232c738006e98d91e897834c2"
+hash = "3eec79641f91bbfa2d9bc44ba0b445c76475241459b1a7e1797326d3aeb7798a"
 metafile = true
 
 [[files]]
