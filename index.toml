@@ -594,11 +594,6 @@ hash = "50bb1e11d03ffd1492fcda9bd6be84707119a3eed3a9760d99c739b97224015a"
 metafile = true
 
 [[files]]
-file = "mods/dancerizer.pw.toml"
-hash = "1602efacafcdea2020e9c89d3001eb72d7d6b309a981d1ad81d0e22805bd126c"
-metafile = true
-
-[[files]]
 file = "mods/delight-lib.pw.toml"
 hash = "c4fb5bf78ad912a20ff50767f4e5cb64fd84f04d58db0c79bc728b643acc4038"
 metafile = true
@@ -675,6 +670,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "ee66efb9eae03c2f060086e26c9d9e4a9fbece4cd1f8fc92dfbf2771f3bad296"
 metafile = true
 
 [[files]]
