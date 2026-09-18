@@ -994,7 +994,7 @@ metafile = true
 
 [[files]]
 file = "mods/northstar-redux.pw.toml"
-hash = "14f7d55594269565bde84e899b5375a02b1afe13a33e543d4e152a40743c0291"
+hash = "346c1c1da99ce9376735bf8b4d55e160b24ad2935e23b066c2900770c4181e11"
 metafile = true
 
 [[files]]
