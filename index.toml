@@ -81,6 +81,10 @@ file = "mods/PatPat-1.2.4+1.21.1+neoforge.jar"
 hash = "15a78091aba5b48ceed1d1320bddcae64e953e420ba94c72359980ed6b31d9d8"
 
 [[files]]
+file = "mods/PlayerCollars-1.6.0+1.21.1.jar"
+hash = "63589e16e0bded3aec0103db9a53ae38000c7d0962f16de28c20d50aa7ae33e1"
+
+[[files]]
 file = "mods/additional-lights.pw.toml"
 hash = "2a1d37592310a332c4bd5d03df4663054b855e28f797f5c91bb13414416dd632"
 metafile = true
@@ -905,11 +909,6 @@ metafile = true
 [[files]]
 file = "mods/ldlib.pw.toml"
 hash = "8ffb648a73b29fd7f395372f5c1d46c1120f9921dfea2c2e3eed777c6e5aa072"
-metafile = true
-
-[[files]]
-file = "mods/leashable-collars.pw.toml"
-hash = "609ac95fb09d663e12248afe745bea5b4357e5448ac2eb966caa0a2edea40256"
 metafile = true
 
 [[files]]
