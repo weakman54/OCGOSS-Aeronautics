@@ -1257,9 +1257,8 @@ hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
-file = "mods/tfmg-community-edition.pw.toml"
-hash = "e0bf2a73a55e1ae63171ece74ae521f9a9827f12f43bd69e8b67f29bd3a20521"
-metafile = true
+file = "mods/tfmg-1.21.1-1.2.9.jar"
+hash = "7d4002fdfd5a05d76dd762c91fd12e64c45971106abeafb18e8fc952f6d8b382"
 
 [[files]]
 file = "mods/tobaccocraft.pw.toml"
