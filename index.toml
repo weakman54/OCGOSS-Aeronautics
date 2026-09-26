@@ -1073,7 +1073,7 @@ metafile = true
 
 [[files]]
 file = "mods/power-grid.pw.toml"
-hash = "0a8751beba30f064c60e2baa923aa677ff2e885f065cff915a9e771190c47053"
+hash = "22cf5579fbc67af2ac84358af3c390c6235fabd6cd6cc3828021349b588f4bdb"
 metafile = true
 
 [[files]]
@@ -1258,7 +1258,7 @@ metafile = true
 
 [[files]]
 file = "mods/tfmg-community-edition.pw.toml"
-hash = "e0bf2a73a55e1ae63171ece74ae521f9a9827f12f43bd69e8b67f29bd3a20521"
+hash = "90ea1fdfbbf419e3c5943c134da0ecd30e3d42fcf124f81134de8db978b124b8"
 metafile = true
 
 [[files]]
