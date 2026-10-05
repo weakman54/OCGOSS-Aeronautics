@@ -73,6 +73,10 @@ file = "kubejs/server_scripts/garlic_bread.js"
 hash = "8ab032eca6d12a3e729bff4198f9d3b890e56ac66c531d2d2cd8ac279b9f4af8"
 
 [[files]]
+file = "kubejs/server_scripts/smart_chestplate_recipe.js"
+hash = "4af04d19efb4e447ef4744991e51ad916130c18e806eaeca6276ac61d8ed0bba"
+
+[[files]]
 file = "kubejs/server_scripts/tfmg.js"
 hash = "eca79a615ce4796980d1a0907e066e8f52884feb83f1157d462fb02e25c89ba8"
 
