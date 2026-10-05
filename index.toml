@@ -53,6 +53,14 @@ file = "config/waystones-common.toml"
 hash = "853824ca58b1a6773b340aa9ef8f6cfb2d52cb65852a20a8f8e145a73b67ae7f"
 
 [[files]]
+file = "datapacks/two_slot_thighs/data/estrogen/curios/slots/thighs.json"
+hash = "d3df7e68ba499d521269971ea8106e4894c9d8b58395e67dc0379e03edf23c9f"
+
+[[files]]
+file = "datapacks/two_slot_thighs/pack.mcmeta"
+hash = "67a7f957da64c8d907ba177303fd5fc792ee1c68dc83e2500d6a0a65e9695af1"
+
+[[files]]
 file = "kubejs/server_scripts/bone_meal_from_chalk.js"
 hash = "e50037133960e0916538bc2624c3d50d034add19217dfe3ad392fed6ea73acd4"
 
