@@ -1,13 +1,13 @@
 name = "Vanilla AIOTs"
-filename = "VanillaAIOTs-21.1.8.jar"
+filename = "VanillaAIOTs-21.1.9.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WN2YCymY/versions/57O6rXZo/VanillaAIOTs-21.1.8.jar"
+url = "https://cdn.modrinth.com/data/WN2YCymY/versions/uSCVaRIq/VanillaAIOTs-21.1.9.jar"
 hash-format = "sha512"
-hash = "d0a428206b2b18cf2c3751bce359af487e815c60e4ba22195b62d1408ca0ca9a7cfa059af803b137a1bcb4ad92d912f73e0a812a1c9c8c2337748596ee1cde09"
+hash = "cf46f1372cf67831f3de403dde8ecd3e46e34d3306c62dbccda2c463f82f10f30337e38651d4bd8500befac185693af3aa1f87b5fa96187aacb0160a30677fb9"
 
 [update]
 [update.modrinth]
 mod-id = "WN2YCymY"
-version = "57O6rXZo"
+version = "uSCVaRIq"

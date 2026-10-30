@@ -1,13 +1,13 @@
 name = "Create: Bionics"
-filename = "createbionics-2.0.6.jar"
+filename = "createbionics-2.5.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lCwu0vBo/versions/KicIiXYf/createbionics-2.0.6.jar"
+url = "https://cdn.modrinth.com/data/lCwu0vBo/versions/fG2UIEqS/createbionics-2.5.0.jar"
 hash-format = "sha512"
-hash = "95e227ab3a8d19b1d06a11bde683b498e9d92f510ffffaea73b012a0e75ac57b0740729abfa0d597484245ac71809c7fffe65afda9627a79ff451b38277c3c35"
+hash = "305bbf8834107c63cafd4c534d5af7896953687801688cadcbbf53858a7351c446e615a670eccb438776e2f824013de5f1793bd6ed56159e5603f069c2abc926"
 
 [update]
 [update.modrinth]
 mod-id = "lCwu0vBo"
-version = "KicIiXYf"
+version = "fG2UIEqS"

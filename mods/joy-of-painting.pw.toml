@@ -1,13 +1,13 @@
 name = "Joy of Painting"
-filename = "xercapaint-1.21.1-2.0.1.jar"
+filename = "xercapaint-neoforge-1.21.1-2.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/YOs4tZea/versions/oXzSEW2K/xercapaint-1.21.1-2.0.1.jar"
+url = "https://cdn.modrinth.com/data/YOs4tZea/versions/73U02HbA/xercapaint-neoforge-1.21.1-2.0.1.jar"
 hash-format = "sha512"
-hash = "3e5cf5420c643ef8e75199725270f88c0efd6c8d0e3da9353506a40ec96afd74007941860146efb76d2bc6d3af2a633c3e0e80ce6a8800af7e5e7748dc5bff3f"
+hash = "a79e8f5af0a744492a09e1be417a76f4d4a03786b80d9b9fad298480c09a443a2a1ac54826d42fa8d6b5d1c4b4edc8dc227ba2aa642e7ffb3993bbfbf99c971a"
 
 [update]
 [update.modrinth]
 mod-id = "YOs4tZea"
-version = "oXzSEW2K"
+version = "73U02HbA"

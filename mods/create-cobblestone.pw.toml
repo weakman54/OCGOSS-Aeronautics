@@ -1,13 +1,13 @@
 name = "Create Cobblestone"
-filename = "createcobblestone-1.4.12+neoforge-1.21.1-144.jar"
+filename = "createcobblestone-1.5.1+neoforge-1.21.1-160.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ihpnEd80/versions/qucToeoF/createcobblestone-1.4.12%2Bneoforge-1.21.1-144.jar"
+url = "https://cdn.modrinth.com/data/ihpnEd80/versions/yJiZnWZD/createcobblestone-1.5.1%2Bneoforge-1.21.1-160.jar"
 hash-format = "sha512"
-hash = "8fd97028f89e6b2d626f3661ee9f03de6c0f3f293b3e08bbff2362800b5d04b0cab5a643b59a3128728cf331b6f3f85fbc50b5ae6089b530fbbb86cc51e2fa06"
+hash = "86e87569446e78ac6bd73a8911e7ccbb3c8e97dfcdf1fc5842fc3c90d77f88c0023a207321e6e476d9053e23c7bcc7e47f080269973ee4d34de886f1c31cb853"
 
 [update]
 [update.modrinth]
 mod-id = "ihpnEd80"
-version = "qucToeoF"
+version = "yJiZnWZD"
