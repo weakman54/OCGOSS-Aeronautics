@@ -570,8 +570,8 @@ hash = "f77747f2492fd97202d853b78dd58f17b8c4d56ea66f1e04b1c6ad83f6ab30ec"
 metafile = true
 
 [[files]]
-file = "mods/destroy-1.21.1-0.2.1.jar"
-hash = "3252169217833bbcde499343ea43902ea08f904054ded2d9bb3726e0fed240ff"
+file = "mods/destroy-1.21.1-0.4.4.jar"
+hash = "6611fe02b9afba05a4b28afee141afd949deb53282e8f03b89fc26aa455e4fa8"
 
 [[files]]
 file = "mods/ding.pw.toml"
