@@ -227,11 +227,6 @@ hash = "feb4efaaeaa4ee270d04de7f06e377ada25e3977649c7d6de227ea6338396634"
 metafile = true
 
 [[files]]
-file = "mods/brewin-and-chewin.pw.toml"
-hash = "22d9510588b081cf9905f6549d24bc11012aa8d9c7d38a8619ab9db5ccb7b9a8"
-metafile = true
-
-[[files]]
 file = "mods/c-fmg-and-c-dg-compatibility.pw.toml"
 hash = "905eef057d5f472d6fd7ea5d9ec2af0fc068e50c027ac4ddd35e3f74abe0727d"
 metafile = true
@@ -282,11 +277,6 @@ hash = "0752ec9f3ef57c06a49813e1d1d1d442a124b3a7586bd232003055dc343a317f"
 metafile = true
 
 [[files]]
-file = "mods/chunky.pw.toml"
-hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
-metafile = true
-
-[[files]]
 file = "mods/clockware-1.0.2.jar"
 hash = "5c55b7d13e86d6a8171197dd0e9f86ea1a3680b145a525e4fcaaa0ed2c8a9d45"
 
@@ -313,16 +303,6 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
-metafile = true
-
-[[files]]
-file = "mods/corn-delight.pw.toml"
-hash = "c7d7ee14a057fc2c5b1e36af8da13f4e702f15109d5bc247daa4246ca8302dc3"
-metafile = true
-
-[[files]]
-file = "mods/cosmos-infinia.pw.toml"
-hash = "d8f9d34c0161b610bfc1340bf0b59f0a0b792fb0d8af20dfb8ada5a26faf50a0"
 metafile = true
 
 [[files]]
@@ -356,11 +336,6 @@ hash = "28f2a6058eea2927b1b7676d90b2d318e1ee9353bb5a46d9b0fb3e874be48e3d"
 metafile = true
 
 [[files]]
-file = "mods/create-avionics.pw.toml"
-hash = "89f883bddfb008d0cf9b6ed4ff49795b351f3f5c3e5e3cc8e3a2818a81cea9b5"
-metafile = true
-
-[[files]]
 file = "mods/create-ballast.pw.toml"
 hash = "fcabd265b7d88372614d74bae22c7a1ea90c830ff4e8aa13d8354bece9690555"
 metafile = true
@@ -381,16 +356,6 @@ hash = "ccb156a28becc63d5fdea04798ec08f3fab390f35fd5380440211aa632199e70"
 metafile = true
 
 [[files]]
-file = "mods/create-bitterballen.pw.toml"
-hash = "818c72ad08596c9312ad2090aad62c7c1733053ec4588079c1d5f9cd2fa03421"
-metafile = true
-
-[[files]]
-file = "mods/create-cafe.pw.toml"
-hash = "b79238bd1e524932445f1eadbb6d4944a0890189f8ffc9499662db98c14aac63"
-metafile = true
-
-[[files]]
 file = "mods/create-capsule-corp..pw.toml"
 hash = "f4399ea0e3f6238bfffd93bf252a265d7e47a20d8f948dd7f6199f87e43ca12f"
 metafile = true
@@ -398,11 +363,6 @@ metafile = true
 [[files]]
 file = "mods/create-cardboarded-conveynience.pw.toml"
 hash = "250b9b967cb0ecc2b9f4e579b26b81c5d9dbed5a35eb152370cefbe5568485d4"
-metafile = true
-
-[[files]]
-file = "mods/create-cc-total-logistics.pw.toml"
-hash = "0e8eb610e3fa9fc7d7897dd24ac43872ead64ddea9e6b5da2a2730d21892f2fd"
 metafile = true
 
 [[files]]
@@ -496,16 +456,6 @@ hash = "125550f754e447392aab3688e11652157296f53eac160bb62d1fbdca6c5af359"
 metafile = true
 
 [[files]]
-file = "mods/create-more-parallel-pipes.pw.toml"
-hash = "fe642f391d1da67b5308987fb8ed3f4e1914d92bb181d8c05c6f5635e886b635"
-metafile = true
-
-[[files]]
-file = "mods/create-more-pipe-bombs-in-packages.pw.toml"
-hash = "a95e377ae8ab495a5bd6b68e32bc178fe80afe43df1d64a48210a3383f24d5e5"
-metafile = true
-
-[[files]]
 file = "mods/create-more-vertical-additions.pw.toml"
 hash = "939f0de84b51b0038cdaf003aa467ad46a3c408afc2633a76a1acda6f908be58"
 metafile = true
@@ -581,11 +531,6 @@ hash = "579800a69ca3296dae0563f50fb2605b4f6ca65633b50b8493fb68782a657314"
 metafile = true
 
 [[files]]
-file = "mods/create-winery.pw.toml"
-hash = "0494165f772354b6796a0a5869f07afacf178519e888ab0450da3d4865d2a692"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
@@ -649,11 +594,6 @@ hash = "f943c276fcebd5542c4b3dda60634728e1a70212f15dc9af8f0b7b9bb40199db"
 metafile = true
 
 [[files]]
-file = "mods/dumplings-delight-rewrapped.pw.toml"
-hash = "e86d65c916d8e7fd004a02a4203e39786b9d54de5640a30ee06f1c91ce35c81a"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-dimensions-ar-edition.pw.toml"
 hash = "28392d58694db3adc558c5b7123276868dc1d5f91cfb381e09fa32e191e82dd1"
 metafile = true
@@ -666,11 +606,6 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "b42ea604c46fc73d9474ebc9d6d3d64a1efe6b9d5df8512c71a86f820eb8a105"
-metafile = true
-
-[[files]]
-file = "mods/easters-delight.pw.toml"
-hash = "f18306488f1bed84627559c004e5a4d7cb01f116e76bcfc55d37be2bbfa22c5f"
 metafile = true
 
 [[files]]
@@ -734,11 +669,6 @@ hash = "1c516c3cdedc1a2b6bdd4d7ab12469142d5ee9dadc03e815be3f2a04b95f7135"
 metafile = true
 
 [[files]]
-file = "mods/extradelight.pw.toml"
-hash = "d3cb20ad2dc8cdbf989751ad22ca4192782f68487e5e8c05e0a3f5a88d52780c"
-metafile = true
-
-[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
 metafile = true
@@ -749,18 +679,8 @@ hash = "36cc04059e9287c087425d5e3f156b2198817e32f38a2974ccade586939e96bc"
 metafile = true
 
 [[files]]
-file = "mods/farmers-cutting-collection.pw.toml"
-hash = "acbf13669b9ec8f4fe8e406bad71c5a925246bb64a4f8501efce2a88c87437b9"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
-metafile = true
-
-[[files]]
-file = "mods/farmers-pizzeria.pw.toml"
-hash = "ef7be6b02d0348ff3b296b95654fb02b18af552dd7807f568cac11850c92acbe"
 metafile = true
 
 [[files]]
@@ -1001,11 +921,6 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "35acdf433fe8f8599f59975e848efdb717663c2c471d3a5dc18743799795a736"
-metafile = true
-
-[[files]]
-file = "mods/new-years-delight-(a-farmers-delight-add-on).pw.toml"
-hash = "3cd0e2d4b222ad3631014f953dd6daf83fc94ef8d589414cda3135f6cd13b7bc"
 metafile = true
 
 [[files]]
@@ -1251,11 +1166,6 @@ metafile = true
 [[files]]
 file = "mods/ssrd.pw.toml"
 hash = "4a4c0c54b3b38ac660b9c06d8dc8e51ed3e2efc6dd94ad3e807a48146a420873"
-metafile = true
-
-[[files]]
-file = "mods/storage-delight.pw.toml"
-hash = "1f0065c7214cd6b83cfccd5eb85967b1091271e44e0e0f7b1eb3c4aa7f22b203"
 metafile = true
 
 [[files]]
