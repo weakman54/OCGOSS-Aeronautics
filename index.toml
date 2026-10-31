@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".vscode/settings.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
 file = "config/aether-common.toml"
 hash = "178bf18011f06b8de5df04c3b2184caeb479f28a6aae1e9e9ff15f300044b97e"
 
@@ -59,6 +63,18 @@ hash = "d3df7e68ba499d521269971ea8106e4894c9d8b58395e67dc0379e03edf23c9f"
 [[files]]
 file = "datapacks/two_slot_thighs/pack.mcmeta"
 hash = "67a7f957da64c8d907ba177303fd5fc792ee1c68dc83e2500d6a0a65e9695af1"
+
+[[files]]
+file = "devenv.lock"
+hash = "0c912d065f31da1e61dece4d2a751cc579eceb372c16c1634eb198de7276d8b2"
+
+[[files]]
+file = "devenv.nix"
+hash = "0476d421154f6b35912dc5c1dba4a3e7109ca12c3d5f936e6b9198c15f1ded14"
+
+[[files]]
+file = "devenv.yaml"
+hash = "4533b059cf723d272a884dcded4db12d39b0b3af1e6a940b7901065759ce7779"
 
 [[files]]
 file = "kubejs/server_scripts/bone_meal_from_chalk.js"
@@ -227,6 +243,11 @@ hash = "feb4efaaeaa4ee270d04de7f06e377ada25e3977649c7d6de227ea6338396634"
 metafile = true
 
 [[files]]
+file = "mods/bobby-reneoforged.pw.toml"
+hash = "5be371e4ac8c4543824badc197937d8c04e15d2e1ef609875d7b3f63eed81aeb"
+metafile = true
+
+[[files]]
 file = "mods/c-fmg-and-c-dg-compatibility.pw.toml"
 hash = "905eef057d5f472d6fd7ea5d9ec2af0fc068e50c027ac4ddd35e3f74abe0727d"
 metafile = true
@@ -279,6 +300,11 @@ metafile = true
 [[files]]
 file = "mods/clockware-1.0.2.jar"
 hash = "5c55b7d13e86d6a8171197dd0e9f86ea1a3680b145a525e4fcaaa0ed2c8a9d45"
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
@@ -626,11 +652,6 @@ metafile = true
 [[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "ee66efb9eae03c2f060086e26c9d9e4a9fbece4cd1f8fc92dfbf2771f3bad296"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "4fbe037c1ec3570be84f68e075c3e8293b15f64dda22bca4735924705fb38236"
 metafile = true
 
 [[files]]
