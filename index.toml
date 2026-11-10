@@ -351,11 +351,6 @@ hash = "a0e9ff95570cd9af3374ca8b44aa095447baf94e565f46ae99819d52a9b48dc1"
 metafile = true
 
 [[files]]
-file = "mods/create-bionics.pw.toml"
-hash = "124abaf71e87fc686427821889dcc65ba6b709003c426fbc069aeec5747c5a7a"
-metafile = true
-
-[[files]]
 file = "mods/create-capsule-corp..pw.toml"
 hash = "f4399ea0e3f6238bfffd93bf252a265d7e47a20d8f948dd7f6199f87e43ca12f"
 metafile = true
@@ -543,6 +538,10 @@ metafile = true
 [[files]]
 file = "mods/createbigmail-1.0.2.jar"
 hash = "eb9a5876946a0954a7db493d384b3b7775e9b46b7dbea18b0fdd52f75efaf362"
+
+[[files]]
+file = "mods/createbionics-2.5.1.jar"
+hash = "baa635f063d7df1a00108baff8068ecfdc657a2eceaaf93708e5354e4aeb93c1"
 
 [[files]]
 file = "mods/cryonicconfig.pw.toml"
